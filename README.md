@@ -112,8 +112,7 @@ http://127.0.0.1:8000/
 
 > [!NOTE]
 > Please note that when running the API in a development environment, it is only accessible on your local machine (localhost). If you want to make the API accessible over the internet or share it with others, you will need to use a tool like NGINX or ngrok to expose it externally. These tools can help you set up a secure tunnel to your local server, allowing external access while maintaining security and control over the exposure of your API.
-
-> Ensure that you have the necessary configurations in place to expose your API securely when needed for testing or sharing with others.
+Ensure that you have the necessary configurations in place to expose your API securely when needed for testing or sharing with others.
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
