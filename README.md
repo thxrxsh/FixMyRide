@@ -31,8 +31,11 @@ Install dependencies using `requirements.txt`
 pip Install -r requirements.txt
 ```
 
+
 > [!IMPORTANT]
 > Create new database for FixMyRide API
+
+
 
 ## Environment Variables
 
@@ -121,7 +124,9 @@ http://127.0.0.1:8000/
 For comprehensive references and detailed documentation of the API, please access the documentation through the following URL after running the API locally:
 
 [API Documentation](http://127.0.0.1:8000/docs#/) : 
-`http://127.0.0.1:8000/docs#/`
+```http
+[http://127.0.0.1:8000/](http://127.0.0.1:8000/docs#/)
+```
 
 ## License
 
