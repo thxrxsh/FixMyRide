@@ -113,9 +113,14 @@ http://127.0.0.1:8000/
 > [!NOTE]
 > Please note that when running the API in a development environment, it is only accessible on your local machine (localhost). If you want to make the API accessible over the internet or share it with others, you will need to use a tool like NGINX or ngrok to expose it externally. These tools can help you set up a secure tunnel to your local server, allowing external access while maintaining security and control over the exposure of your API.
 > Ensure that you have the necessary configurations in place to expose your API securely when needed for testing or sharing with others.
+
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![API-root Postman view](https://github.com/thxrxsh/FixMyRide/assets/76760967/1e77eb0f-2c60-465a-a869-da9aa4de4c63)
+![API-root Browser view](https://github.com/thxrxsh/FixMyRide/assets/76760967/2096609b-7675-4272-ae62-26b5a61726db)
+![API Documentation](https://github.com/thxrxsh/FixMyRide/assets/76760967/09f6bc35-2611-40b1-a371-b214032e9d19)
+
 
 
 ## API Reference
