@@ -21,7 +21,7 @@ Create a virtual environment using python and activate it.
 python3 -m venv env
 ```
 ```bash
-./venv\Scripts\activate
+./env\Scripts\activate
 ```
 
 
