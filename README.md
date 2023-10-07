@@ -18,7 +18,7 @@ cd FixMyRide
 Create a virtual environment using python and activate it.
 
 ```bash
-python -m venv env
+python3 -m venv env
 ```
 ```bash
 ./venv\Scripts\activate
