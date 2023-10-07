@@ -58,7 +58,7 @@ To run this api, you will need to add the following environment variables to you
 
 `ACCESS_TOKEN_EXPIRE_MINUTES`
 
-`GOOGLE_DERECTIONS_API_KEY`
+`GOOGLE_DIRECTIONS_API_KEY`
 ## Configure
 
 Create an environment for alembic in `/FixMyRide` directory
