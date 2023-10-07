@@ -11,6 +11,6 @@ class Settings(BaseSettings):
     secret_key: str = config("SECRET_KEY")
     algorithm: str = config("ALGORITHM")
     access_token_expire_minutes: float = config("ACCESS_TOKEN_EXPIRE_MINUTES")
-    api_key: str = config("GOOGLE_DERECTIONS_API_KEY")
+    api_key: str = config("GOOGLE_DIRECTIONS_API_KEY")
 
 Settings = Settings()
