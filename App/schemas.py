@@ -70,7 +70,6 @@ class MechanicLogin(BaseModel):
 class Mechanic(BaseModel):
     mechanic_id: int
     name: str
-    email: str
     address: str
     location: str
     mobile: str
