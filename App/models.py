@@ -15,7 +15,7 @@ class User(Base):
     email = Column(String, nullable=False)
     name = Column(String, nullable=False)
     password = Column(String, nullable=False)
-    mobile = Column(Integer, nullable=False)
+    mobile = Column(String, nullable=False)
 
 class Mechanic(Base):
     __tablename__ = "mechanic"
@@ -26,7 +26,7 @@ class Mechanic(Base):
     district = Column(String, nullable=False)
     province = Column(String, nullable=False)
     country = Column(String, nullable=False)
-    mobile = Column(Integer, nullable=False)
+    mobile = Column(String, nullable=False)
     name = Column(String, nullable=False)
     password = Column(String, nullable=False)
     rating_count = Column(Float, nullable=True)
